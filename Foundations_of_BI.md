@@ -1,11 +1,12 @@
 ## Foundations of Business Intelligence
 
-Describe
+#### Describe
 <pre>
 - What drives BIs bring for changes? 
 </pre>
 
-Example Questions
+#### Example Scenarios
+Scenario 1
 <pre>
 Topic : Restuarants reducing waste
 -----------------------------------
@@ -26,6 +27,7 @@ Solution
 3) Organize this data within database and deliver
 </pre>
 
+Scenario 2
 <pre>
 Topic : Hospitals promoting patient care
 -----------------------------------
@@ -36,6 +38,32 @@ Solution
 1) Multiple source systems needs to be consolidated (Prev. visit, Tests, Patients info)
 2) Develop the Db system and pipeline
 </pre>
+
+#### Data Life Cycle
+1. Plan
+2. Capture
+3. Manage
+4. Analyze
+5. Archive
+6. Destroy
+
+#### Data Analyysis Process
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
+
+#### Business Intelligence Stages
+1. Capture : What happen? - Description
+2. Analyze : Why did it happen? - Diagnostic
+3. Monitor : What's happening now? - Prescription & Prediction
+<br>
+
+![maturity_model](https://github.com/yinlongTh/Google_BI/assets/108507768/a28be2da-ab83-4ec0-b3f8-2b451c95b68e)
+
+<br>
 
 
 
