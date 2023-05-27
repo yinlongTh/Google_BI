@@ -55,7 +55,8 @@ Solution
 5. Share
 6. Act
 
-#### Business Intelligence Stages
+#### Business Intelligence Stages 
+Goal : Increase <strong>Data Maturity Level</strong> 
 1. Capture : What happen? - Description
 2. Analyze : Why did it happen? - Diagnostic
 3. Monitor : What's happening now? - Prescription & Prediction
