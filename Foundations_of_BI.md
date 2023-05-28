@@ -47,7 +47,7 @@ Solution
 5. Archive
 6. Destroy
 
-#### Data Analyysis Process
+#### Data Analysis Process
 1. Ask
 2. Prepare
 3. Process
@@ -65,6 +65,24 @@ Goal : Increase <strong>Data Maturity Level</strong>
 ![maturity_model](https://github.com/yinlongTh/Google_BI/assets/108507768/a28be2da-ab83-4ec0-b3f8-2b451c95b68e)
 
 <br>
+
+#### Key BI docs
+1. Stakeholder Requirements Doc
+   - Business problem
+   - Stakeholder
+   - Stakeholder usage details
+   - Primary requirements
+2. Project Requirements Doc
+   - Purpose
+   - Key dependencies
+   - Stakeholder requirements
+   - Success criteria
+   - User journey <br>
+   [And more](https://docs.google.com/document/d/1Vq9G_MAQRz4V6iZF_Z-v_u0AcwloB96lc6wwYzz9EDg/template/preview?pli=1)
+3. [Strategy Doc](https://docs.google.com/document/d/13v9_pOAHbcv2dhEMZtPFJ6sgvZaY-9tVp1op32owAdE/template/preview)
+
+
+
 
 
 
