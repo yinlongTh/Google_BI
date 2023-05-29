@@ -15,3 +15,12 @@ is a output product after the modeling
 ![9EHB99ggRZ-jcYUuR7TCrw_6bf720e4e1484544bba3c40294ccedf1_Screen-Shot-2022-12-21-at-12 45 32-PM](https://github.com/yinlongTh/Google_BI/assets/108507768/bd8836d7-7784-4408-a257-3b1ec41642c6)
 
 And others, Unstructured, Flat, Doc, Key-value etc.
+
+#### Database types
+- OLTP 
+- OLAP
+- Row-based
+- columnar
+- Distributed
+- Single-homed
+- Separated storage and compute | combined
