@@ -86,9 +86,16 @@ AS (
 );
 </pre>
 
- 
+#### Quality of a pipeline
+- Completeness: Does the data contain all of the desired components or measures?
+- Consistency: Is the data compatible and in agreement across all systems?
+- Conformity: Does the data fit the required destination format?
+- Accuracy: Does the data conform to the actual entity being measured or described?
+- Redundancy: Is only the necessary data being moved, transformed, and stored for use?
+- Timeliness: Is the data current?
+- Integrity: Is the data accurate, complete, consistent, and trustworthy? 
 
-
+![fBbPLC3UT0eoVsP7MHZp5A_01193e2e3cae47e8a21b863f6e716df1_BI_R-070](https://github.com/yinlongTh/Google_BI/assets/108507768/19282a08-e763-48ad-98d5-405d673204de)
 
 
 
